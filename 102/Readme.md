@@ -13,13 +13,13 @@ HTML Guide
 ## [Class04](Class04/Notes4.md)
 
 CSS Guide
-## [Class05](Class5/Notes5.md)
+## [Class05](Class05/Notes5.md)
 
 THEME OF CLASS 06
-## [Class06](Class/Notes6.md)
+## [Class06](Class06/Notes6.md)
 
 THEME OF CLASS 07
-## [Class07](Class/Notes7.md)
+## [Class07](Class07/Notes7.md)
 
 THEME OF CLASS 08
-## [Class08](Class/Notes8.md)
+## [Class08](Class08/Notes8.md)
